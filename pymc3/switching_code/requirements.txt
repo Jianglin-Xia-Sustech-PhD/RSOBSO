@@ -1,0 +1,9 @@
+hmmlearn
+numpy
+pandas
+scipy
+matplotlib
+pyDOE
+POT
+pip 
+GPy
