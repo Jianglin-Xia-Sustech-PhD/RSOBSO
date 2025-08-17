@@ -3,5 +3,5 @@ Regime-Switching Online Bayesian Simulation Optimization (RSOBSO) Approach
 
 for the paper under review in INFORMS Journal on Computing (IJOC)
 
-main components: Gaussian Process, Markov Switching Model (MSM)/ Hidden Markov Model(HMM), Hierarchical Dirichelt Process Hidden Markov Model (HDPHMM)
+main components: Gaussian Process (GP), Markov Switching Model (MSM)/ Hidden Markov Model(HMM), Hierarchical Dirichelt Process Hidden Markov Model (HDPHMM)
 
