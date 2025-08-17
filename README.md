@@ -1,2 +1,2 @@
 # RSOBSO
-Regime-Switching Online Bayesian Simulation Optimization Approach
+Regime-Switching Online Bayesian Simulation Optimization (RSOBSO) Approach
