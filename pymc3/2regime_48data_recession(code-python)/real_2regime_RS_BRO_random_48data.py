@@ -6,6 +6,7 @@
 ### no need to make it in the increasing order
 ### BRO framework
 ### EGO lambda: average weight for regime choice, random sampling for parameters in each regime
+
 from hmmlearn import hmm
 import numpy as np
 import pandas as pd
